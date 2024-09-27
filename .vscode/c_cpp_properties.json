@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "c++",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\juyip\\Desktop\\code\\cppcode\\include\\"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/Programs/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
